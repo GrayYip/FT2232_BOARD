@@ -1,0 +1,15 @@
+"ID";"指示器";"包";"数量";"名称";"供应商和参考";
+1;"C1,C2,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17";"C_0603_1608Metric";16;"22pF";;;
+2;"C3";"C_0805_2012Metric";1;"22uF";;;
+3;"C18";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"22uF";;;
+4;"J2";"USB_B_OST_USB-B1HSxx_Horizontal";1;"USB_B";;;
+5;"R1";"R_0603_1608Metric";1;"12K/1%";;;
+6;"R2";"R_0603_1608Metric";1;"4.7K";;;
+7;"R3,R4,R5";"R_0603_1608Metric";3;"10K";;;
+8;"R6";"R_0603_1608Metric";1;"2.2K";;;
+9;"SW1";"SW_SPST_SKQG_WithoutStem";1;"RESET";;;
+10;"U1";"SOT-223-3_TabPin2";1;"AMS1117-3.3";;;
+11;"U2";"LQFP-64_10x10mm_P0.5mm";1;"FT2232H";;;
+12;"U3";"SOIC-8_3.9x4.9mm_P1.27mm";1;"93LC56B-I/SN ";;;
+13;"Y1";"Crystal_HC49-4H_Vertical";1;"12MHZ";;;
+14;"J1,J3";"PinSocket_1x18_P2.54mm_Vertical";2;"Conn_01x18";;;
